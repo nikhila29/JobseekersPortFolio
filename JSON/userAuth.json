@@ -1,0 +1,26 @@
+[
+    {
+        "firstName": "mayukh",
+        "lastName": "ghosh",
+        "email": "mayukh@gmail.com",
+        "password": "123456"
+    },
+    {
+        "firstName": "NIkhila",
+        "lastName": "Badri",
+        "email": "nikhila29@gmail.com",
+        "password": "123456"
+    },
+    {
+        "firstName": "NIkhila",
+        "lastName": "Badri",
+        "email": "nikhila345@gmail.com",
+        "password": "123456"
+    },
+    {
+        "firstName": "Nikkki",
+        "lastName": "Badri",
+        "email": "abc@gmail.com",
+        "password": "123456"
+    }
+]

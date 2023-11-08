@@ -1,0 +1,39 @@
+[
+    {
+        "id": "1",
+        "firstName": "Ramadevi",
+        "lastName": "Badri",
+        "age": "40",
+        "email": "nikhila@gmail.com",
+        "createdAt": "2023-08-26T15:11:07.825Z",
+        "location": "Kolkata"
+    },
+    {
+        "id": "2",
+        "firstName": "Nikhila",
+        "lastName": "Badri",
+        "age": "23",
+        "email": "nikhila@gmail.com",
+        "createdAt": "2023-08-26T15:17:38.912Z",
+        "location": "Kolkata"
+    },
+    {
+        "id": "3",
+        "firstName": "Vijaya",
+        "lastName": "Tellagorla",
+        "age": "25",
+        "phoneNumber": 9876012345,
+        "email": "vijaya@gmail.com",
+        "createdAt": "2023-08-26T15:22:07.831Z",
+        "location": "Kolkata"
+    },
+    {
+        "id": "4",
+        "firstName": "nikki",
+        "lastName": "dgf",
+        "age": "23",
+        "email": "abbc@gmail.com",
+        "createdAt": "2023-08-28T06:16:03.960Z",
+        "location": "Kolkata"
+    }
+]
